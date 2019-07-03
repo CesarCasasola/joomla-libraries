@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" version="3.0" method="upgrade">
+    <name>geoPHP</name>
+    <libraryname>geophp</libraryname>
+    <creationDate>July 2019</creationDate>
+	<description>Wrapper for geoPHP library to being installed in Joomla. The wrapper was created by cesarcasasolamiranda@gmail.com</description>
+    <version>1.0</version>
+    <files>
+        <folder>lib</folder>
+        <filename>geoPHP.inc</filename>
+        <filename>LICENSE</filename>
+        <filename>index.html</filename>
+    </files>
+</extension>

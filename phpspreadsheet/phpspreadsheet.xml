@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" version="3.0" method="upgrade">
+    <name>phpSpreadsheet</name>
+    <libraryname>phpspreadsheet</libraryname>
+    <creationDate>July 2019</creationDate>
+	<description>Wrapper for phpSpreadsheet library to being installed in Joomla. The wrapper was created by cesarcasasolamiranda@gmail.com</description>
+    <version>1.0</version>
+    <files>
+        <folder>vendor</folder>
+        <filename>index.html</filename>
+    </files>
+</extension>
